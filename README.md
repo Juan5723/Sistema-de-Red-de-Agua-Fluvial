@@ -1,5 +1,5 @@
 =========================================
-  REQUISITOS DE USO
+          REQUISITOS DE USO
 -Tener Java en la verion 25+
 =======================
 
