@@ -1,10 +1,10 @@
 =========================================
           REQUISITOS DE USO
 -Tener Java en la verion 25+
-=======================
+=========================================
 
-=======================
-      INSTALACION
+=========================================
+               INSTALACION
 -Descargar el archivo SistemaFluvial.exe
 -Ejecutar el archivo SistemaFluvial.exe
-=======================
+========================================
